@@ -1,6 +1,6 @@
 ## Hyldem0er 
 
-*"Elder Mother", a Danish spirit who dwells under the elder-tree. If a peasant wanted to take any part of the tree he had to ask her for permission, or he would be severely punished.*
+*"Elder Mother", a Danish spirit who dwells under the elder-tree. If a peasant wanted to take any part of the tree he had to ask her for permission.
 
 Two dumb guys come up with handy OSINT tools under the Hyldem0er alias.
 
