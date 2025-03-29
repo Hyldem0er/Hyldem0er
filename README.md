@@ -1,7 +1,7 @@
 ## Hyldem0er 
 
 <p align="center">
-  <img src="https://github.com/Hyldem0er/Hyldem0er/blob/master/Background-hyldemoer-only.png">
+  <img src="https://raw.githubusercontent.com/Hyldem0er/Hyldem0er/master/Background-hyldemoer-only.png">
 </p>
 
 *"Elder Mother", a Danish spirit who dwells under the elder-tree. If a peasant wanted to take any part of the tree he had to ask her for permission.*
